@@ -1,0 +1,2 @@
+C:\Users\suvasaho\source\repos\Caching Project\Caching Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suvasaho\source\repos\Caching Project\Caching Project\bin\roslyn\vbc.exe
